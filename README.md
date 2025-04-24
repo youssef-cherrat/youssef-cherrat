@@ -1,7 +1,6 @@
 # Hi 👋, I'm Youssef
-
 ### Quick Facts:
-- 🔭 I’m currently working on [Green Threads, a fast-fashion alternative](https://github.com/youssef-cherrat/HooHacks24-FastFashion).
+- 🔭 I’m currently working on [Aleo DAO with zK Voting](https://github.com/youssef-cherrat/aleo-voting-app).
 - 🌱 I’m currently learning how to deploy web-apps with cloud-services, AWS, Azure, and Heroku.
 - 📫 How to reach me: **jja3em@virginia.edu**.
 
